@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804321002049",
+    "firebase_url": "https://organic-farm-bda2c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "organic-farm-bda2c",
+    "storage_bucket": "organic-farm-bda2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804321002049:android:9602c50d853994b8317cc0",
+        "android_client_info": {
+          "package_name": "com.example.itemsazanew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804321002049-0mm9s81q0mrkl9f98p66acl40v0lqkb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjDP_0JcDtAX9v8S7R32KvzTJPsc6lLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804321002049-0mm9s81q0mrkl9f98p66acl40v0lqkb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
